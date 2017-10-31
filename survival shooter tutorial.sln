@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "survival shooter tutorial", "survival shooter tutorial.csproj", "{7791A11D-1278-8CC5-1F54-297AAFF61AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "survival shooter tutorial.Editor", "survival shooter tutorial.Editor.csproj", "{44BBC736-6E01-25A0-62AE-6C23C7547FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7791A11D-1278-8CC5-1F54-297AAFF61AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7791A11D-1278-8CC5-1F54-297AAFF61AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7791A11D-1278-8CC5-1F54-297AAFF61AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7791A11D-1278-8CC5-1F54-297AAFF61AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BBC736-6E01-25A0-62AE-6C23C7547FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BBC736-6E01-25A0-62AE-6C23C7547FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BBC736-6E01-25A0-62AE-6C23C7547FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BBC736-6E01-25A0-62AE-6C23C7547FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
